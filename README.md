@@ -2,6 +2,7 @@ This front-end project was initially created while learning some of the basics o
 
 Upon review, here is a list of intended updates for the project:
 1. Include semantic HTML to make the project more accessible
-2. Update the CSS accordingly
-3. Improve the use of flexbox for the layout
-4. Choose a better main image for the hero section
+2. Generate realistic text
+3. Update the CSS accordingly
+4. Improve the use of flexbox for the layout
+✅ Choose a better main image for the hero section
